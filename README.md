@@ -1,5 +1,3 @@
-# easypay-privacy-policy
-
 <h1>Política de Privacidad de EasyPay</h1>
 
 EasyPay no recopila datos personales directamente desde la aplicación móvil. Toda la información del usuario (como nombre, cédula de identidad, correo electrónico y salario) es proporcionada previamente por la empresa empleadora a través de acuerdos establecidos fuera de la app.
